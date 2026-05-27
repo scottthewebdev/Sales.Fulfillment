@@ -17,6 +17,10 @@ Architecture
   - Data: Entity Framework Core DbContext and entities for persistence.
   - Background workers: Hosted services for retry, reconciliation, and integration polling.
 
+Approximate size
+
+- Lines of code: ≈ 1,200 LOC across controllers, services, hubs, background workers, data models, and infrastructure code. This is an approximation and will vary as features are added or refactored.
+
 Key components
 
 Controllers
